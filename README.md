@@ -76,15 +76,10 @@ This repository contains the solution for **Task 4** of my **AI & ML Internship*
 
 ---
 
-## ✅ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/breast-cancer-logistic-regression.git
-
-
 ## 👩‍💻 Author
 Name: Kannati Naveena
 GitHub: https://github.com/kannatinaveena
 Internship: AI & ML Internship Task 4 – Binary Classification
 Date: May 2025
+
+
